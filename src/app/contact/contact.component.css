@@ -3,6 +3,12 @@
     background-color: rgb(48, 48, 47);
     text-align: center;
     color: aliceblue;
-    font-style: oblique;
     border: 2px solid rgb(68, 68, 68);
+}
+
+h3 {
+    font-style: oblique;
+}
+a {
+    font-size: 25px;
 }
