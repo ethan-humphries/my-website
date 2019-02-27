@@ -1,0 +1,13 @@
+.container-fluid {
+    background-color: rgb(48, 48, 47);
+    height : 650px;
+    text-align: center;
+    color: aliceblue;
+    font-style: oblique;
+    border: 2px solid rgb(68, 68, 68);
+
+}
+
+h2 {
+    text-align: center;
+}

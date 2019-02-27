@@ -1,0 +1,16 @@
+
+img {
+    max-height: 500px;
+    opacity: 0.8;
+    border: 2px solid rgb(68, 68, 68);
+}
+
+p {
+    position: absolute;
+    top: 58%;
+    left: 75%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-style: italic;
+    font-size: 20px;
+  }
